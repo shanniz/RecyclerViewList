@@ -8,7 +8,7 @@
     tools:layout_marginLeft="22dp">
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/rvAnimals"
+        android:id="@+id/rvManufacturer"
         android:layout_width="355dp"
         android:layout_height="495dp"
         android:layout_marginStart="16dp"
